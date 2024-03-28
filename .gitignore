@@ -1,0 +1,6 @@
+*.out
+*.exe
+*.xml
+*.iml
+/.DS_Store
+*.out.dSYM/
