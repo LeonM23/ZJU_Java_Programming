@@ -8,6 +8,7 @@ public class Main {
 
         height = (int) (height * 12 / 30.48);
         System.out.println(height / 12 + " " + height % 12);
+        in.close();
     }
 
 }
